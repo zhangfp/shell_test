@@ -34,3 +34,4 @@ echo ${xiaohong:?"xiaohong does not exist."} #会捕捉错误且退出脚本
 #1.test expression
 #2.[ expression ]
 #3.[[ expression ]] 可以使用&& ||
+# Let's test once again.
